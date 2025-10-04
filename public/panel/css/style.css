@@ -1,0 +1,25 @@
+@font-face {
+     font-family: 'vazir';
+     src: url('../fonts/Vazir.eot'),
+     url('../fonts/Vazir.ttf'),
+     url('../fonts/Vazir.woff'),
+     url('../fonts/Vazir.woff2');
+}
+
+*
+{
+     font-family: 'vazir';
+     margin: 0;
+     padding: 0;
+     direction: rtl;
+}
+
+.nav-link 
+{
+     color: white;
+}
+
+.nav-link:hover
+{
+     color: gray;
+}
