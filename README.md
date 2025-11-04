@@ -1,5 +1,3 @@
-
-md
 # sam-store
 
 This repository contains the codebase for the sam-store project. While a detailed description isn't currently provided, this README outlines the project's technical details, setup, and contribution guidelines.
